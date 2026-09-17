@@ -2,3 +2,5 @@
 [https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload+user%3Aplugins&code_challenge=cotdTJA0WPe1kxMWq56GqNzSvSqc8qX2Aky0Q_tMEag&code_challenge_method=S256&state=g53y30fwjMlarbZA9MTZGjznCwv-WfOFMdq1m33zcUg
 ](https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload+user%3Aplugins&code_challenge=AmuzWuUrZwEZz9SkDbH2gkZxuppPeQ1nsKq8Zp00C5E&code_challenge_method=S256&state=HdBUAWeYYsvAzUqfOXN9m46UxrC-H0tdQuP2rBUmuCk)
 d2KVwY81h40BG00Qwp9LNB81p9SzyncqlP8SANBMttYVRzkH#g53y30fwjMlarbZA9MTZGjznCwv-WfOFMdq1m33zcUg
+
+CoXEX5mzSlHsGf43uiF91ixbZTG4yIDy9ibZYntAkWCL58BJ#HdBUAWeYYsvAzUqfOXN9m46UxrC-H0tdQuP2rBUmuCk

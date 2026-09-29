@@ -1,4 +1,2 @@
 # Claude
-https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload+user%3Aplugins&code_challenge=Z-dPBvSpQFmndcO6VPFZYXsJeof_PYJ45Y-xmqM3w_0&code_challenge_method=S256&state=sNAYOgMawoVX2J4I8WMTK1d66cqorVrKAJWcxJME4z8
-
-eb5ePhiLmWZUPKlFbYHkcyyoQnuAdAwwg2G7Z0tgZ3Hz2Qtw#sNAYOgMawoVX2J4I8WMTK1d66cqorVrKAJWcxJME4z8
+https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload+user%3Aplugins&code_challenge=1_9QpA_D4GFTdPXkC2b7dSla-pKwkDu4lvXsZjpBiUE&code_challenge_method=S256&state=xhxfVpaTG8E6AYhuG8VfLLKZNK-WwIUveAo6fav-ToU
